@@ -1,2 +1,2 @@
 # SPANet
-The implementation for "Power based Salient Location Attention for Image Classification"
+The implementation for "Power based Salient Position Attention for Image Classification"
