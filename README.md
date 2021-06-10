@@ -7,7 +7,7 @@ arXiv: https://arxiv.org/abs/2106.04996
 
 
 
-![SPANet](D:\github\SPANet\SPANet.png)
+![SPANet](SPANet.png)
 
 
 
